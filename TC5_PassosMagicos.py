@@ -2,11 +2,8 @@
 app.py — Dashboard Passos Mágicos
 Datathon FIAP — Fase 5 Tech Challenge
 
-Execute com:
-    streamlit run app.py
-
-Requisitos:
-    pip install streamlit pandas numpy matplotlib seaborn scikit-learn
+Executar: streamlit run TC5_PassosMagicos.py
+pip install streamlit pandas numpy matplotlib seaborn scikit-learn
 """
 
 import warnings
